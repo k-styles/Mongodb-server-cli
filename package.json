@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-server-cli",
+  "version": "1.0.0",
+  "description": "CLI with all CRUD operations for a mongodb server   (under progress)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-styles/Mongodb-server-cli.git"
+  },
+  "author": "styles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-styles/Mongodb-server-cli/issues"
+  },
+  "homepage": "https://github.com/k-styles/Mongodb-server-cli#readme",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "inquirer": "^8.1.2",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.5",
+    "nodejs": "^0.0.0"
+  }
+}
